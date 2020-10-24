@@ -6,4 +6,4 @@ rayTracing examples as learned from Peter Shirley
 
 # 1.base color
 
-<img src="basecolor.ppm" style="width=400px" >
+<img alt="basecolor" width="450px" height="300px" src="basecolor.ppm" />
